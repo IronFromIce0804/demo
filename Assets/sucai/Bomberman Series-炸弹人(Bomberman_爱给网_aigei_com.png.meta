@@ -1,0 +1,814 @@
+fileFormatVersion: 2
+guid: 0eb690369b4f01c49b6964e59aedb714
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_0"
+    21300002: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_1"
+    21300004: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_2"
+    21300006: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_3"
+    21300008: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_4"
+    21300010: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_5"
+    21300012: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_6"
+    21300014: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_7"
+    21300016: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_8"
+    21300018: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_9"
+    21300020: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_10"
+    21300022: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_11"
+    21300024: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_12"
+    21300026: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_13"
+    21300028: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_14"
+    21300030: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_15"
+    21300032: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_16"
+    21300034: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_17"
+    21300036: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_18"
+    21300038: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_19"
+    21300040: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_20"
+    21300042: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_21"
+    21300044: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_22"
+    21300046: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_23"
+    21300048: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_26"
+    21300050: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_24"
+    21300052: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_25"
+    21300054: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_27"
+    21300056: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_28"
+    21300058: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_29"
+    21300060: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_30"
+    21300062: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_31"
+    21300064: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_32"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 107
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e092d3c5621c8c4ab73c2759456f85f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 107
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48526631ea551194ea76f0eaadb9e4b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 107
+        width: 47
+        height: 72
+      alignment: 9
+      pivot: {x: 0.45432252, y: 0.47145098}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcf62749dccec44dbeddf9ce00cf9b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 107
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c85fc8f6c1cb94192decebddd74069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 107
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2553b497f6bbe4cb481c02f620355b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 108
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc4dc47c05bf704193907fc28f07a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1547
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6493d846ec76f2945bc1a72508064cc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1547
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f57d5500b2e141a21c01f6029bc45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1547
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db71fa252e33aae418af97466e58fb83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1337
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5416fce27903b547a2167841f33bc7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1135036ec8d738b4e8e13fd481598e5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 797
+        width: 38
+        height: 40
+      alignment: 9
+      pivot: {x: 0.48581374, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5c68680622e1440ac97d9f0553eca7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1442
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a07f0c39883a64a90572575fabe7b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b673cfb7b80e24e951091486403de5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f39b3cd42a806c498197795dded58c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a5170a6c2d4b408c1a291c79e5a34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3eb69072c95984a8e99325ac2462d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9aa5780182606b4b832d2485d9ed921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465f5602fb07ca84e9f5dd4b32ec8f35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1594
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a1b43ddaf5e6c44854b8670de61095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1495
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c5b529ab6c145488f8895cc993a383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1337
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7e02485ae511149abad183171e029e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1337
+        width: 36
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e184b59bf52ac1448ad08abd66505759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1337
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95b9c5ece60ef344a2ca262fc53f62e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 265
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37154fcd502321845b1ab8b701837442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 265
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82d729697871bd4983c36c1cc2625f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 265
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a50d81dbae5e54598c40cb28d8fbd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 265
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d06e00c7a6b11847bab1f3e26bf7989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 265
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac33cfaf64101d4c8136d0faaf0e269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 265
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33455ae262e5eda4f95f4b948d7edd6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 266
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfc4f5bca58b6c42b9e197e2ce74f5f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 265
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71bd97c0039e9043b281ad3409a75e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Bomberman Series-\u70B8\u5F39\u4EBA(Bomberman_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 415
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53df7600332ad3d4480f7ba17688301e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ffee30b648a5818438d63825fefa67e1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,855 @@
+fileFormatVersion: 2
+guid: 406fa6c6f56f4e54e9eb63100d7d4299
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_0"
+    21300002: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_1"
+    21300004: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_2"
+    21300006: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_3"
+    21300008: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_4"
+    21300010: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_5"
+    21300012: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_6"
+    21300014: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_7"
+    21300016: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_8"
+    21300018: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_9"
+    21300020: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_10"
+    21300022: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_11"
+    21300024: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_12"
+    21300026: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_13"
+    21300028: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_14"
+    21300030: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_15"
+    21300032: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_16"
+    21300034: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_17"
+    21300036: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_18"
+    21300038: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_19"
+    21300040: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_20"
+    21300042: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_21"
+    21300044: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_22"
+    21300046: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_23"
+    21300048: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_24"
+    21300050: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_25"
+    21300052: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_26"
+    21300054: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_27"
+    21300056: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_28"
+    21300058: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_29"
+    21300060: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_30"
+    21300062: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_31"
+    21300064: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_32"
+    21300066: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_33"
+    21300068: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_34"
+    21300070: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_35"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 304
+        width: 960
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f96246c8c5038c4480aad615580508a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 394
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcdecfcf58f37af448aa786d017133f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_2"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 236
+        width: 392
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772599c9a54669c4caa99c5326be8308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_3"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 244
+        width: 137
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3f1442a1d57d438b298c3aff7285c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_4"
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 218
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec030b7160745b479e798d503ef22c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_5"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 176
+        width: 136
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055c110573f23e41896109dec009bf2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_6"
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 176
+        width: 136
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e5bf5b8dc7684b8da7fbf295c1937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_7"
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 186
+        width: 137
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6853ca6a788a9fc459d8455ae2bac513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_8"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 115
+        width: 19
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d2f4814dcd7dc44afbd9981204ded2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 168
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708a5d540c969ca488c62d522cdce310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_10"
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 13
+        width: 201
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4122987cf299714d88d78b5ced56ef2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_11"
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 116
+        width: 168
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c0d2e93a3cd14ea42dc226746ea20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_12"
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 125
+        width: 132
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b3fd6a0bb1cf14ca59e309099933f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_13"
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 125
+        width: 132
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52197cc99db643544b878f9ef67dff9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 114
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554182848f0bf764e81623ec1b98133d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_15"
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 8
+        width: 64
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30bc6e3aad6184f45b79f1574d8250ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_16"
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 12
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a484d161f4c654889e57437d6e027d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_17"
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 61
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12a7e0aeff5cf7488d7d8c1168a537e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_18"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 32
+        width: 89
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df30e4fac795454489304f88e1e7f692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_19"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 68
+        width: 43
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd03b23589c1122458d5e2cb310656e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_20"
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 52
+        width: 201
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219bd6ec126b8ac49ac9f483fcb26da5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_21"
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 30
+        width: 104
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0fbf2e0761b3468b04bb05b86251a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_22"
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 42
+        width: 107
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5759ec2cd6dc26f469c775f784b96f85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_23"
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 60
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e866dde24101e548919d7fd92637abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_24"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2343dbf9f5420cb4a94f862bb560863b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_25"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6cc32fe7d37474182cfe73dc2bae43
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_26"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 7
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc533dca8a2baa94688e3a04e5f5afb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_27"
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 4
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 387046b70993e2b4b9572bfd9bbe8dd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_28"
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 23
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a043a9410cb094391f0ecbd74ee08b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_29"
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 12
+        width: 99
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8a0db47b903bf41b28d9a9ab7147f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_30"
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 12
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53db2e7d2d01ded4a9dfb99e8f37ea28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_31"
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 2
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b63ce926d0e16234383886bddca15443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_32"
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdeb42f6dccea84db6a6e0a6b135bd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_33"
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2fc8d9886a3b947926a91a5c5615fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_34"
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f011f793285edd469104dacd9b78dcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Q\u7248\u6A2A\u7248\u6218\u4E89\u7B56\u7565\u6E38\u620F\u7D20\u6750-\u82F1\u96C4\u5F52\u6765\u4E4B\u64B8\u6B7B\u4ED6-GameUI7_\u7231\u7ED9\u7F51_aigei_com_35"
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 4
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e45e03bb14b58b4b9f6f916f720513d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb61bf1a4dee1dd4f9537079cbb7c222
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
